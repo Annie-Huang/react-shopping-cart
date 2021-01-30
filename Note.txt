@@ -1,0 +1,8 @@
+Build a Shopping Cart with React and TypeScript - Tutorial
+(https://www.youtube.com/watch?v=sfmL6bGbiN8)
+
+https://github.com/weibenfalk/react-shopping-cart
+https://github.com/Annie-Huang/react-shopping-cart
+===========================================================
+
+C:\react>npx create-react-app react-shopping-cart --template typescript
