@@ -9,3 +9,4 @@ C:\react>npx create-react-app react-shopping-cart --template typescript
 C:\react\react-shopping-cart>npm install                                << use npm, not yarn
 C:\react\react-shopping-cart>npm i @material-ui/core @material-ui/icons
 C:\react\react-shopping-cart>npm i react-query
+C:\react\react-shopping-cart>npm i styled-components @types/styled-components
