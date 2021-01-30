@@ -6,6 +6,6 @@ https://github.com/Annie-Huang/react-shopping-cart
 ===========================================================
 
 C:\react>npx create-react-app react-shopping-cart --template typescript
-C:\react\react-shopping-cart>npm install        << use npm, not yarn
-
+C:\react\react-shopping-cart>npm install                                << use npm, not yarn
+C:\react\react-shopping-cart>npm i @material-ui/core @material-ui/icons
 
